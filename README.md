@@ -1,156 +1,125 @@
 <div align="center">
 
-# PRIYANSHU BHATT
+# Priyanshu Bhatt
 
-### AI / ML ENGINEER · FULL-STACK DEVELOPER · CREATIVE TECHNOLOGIST
+**AI/ML Developer · Computer Science Engineer · Full-Stack Developer**
 
-<p>
-  <a href="https://github.com/PriyanshuBhatt29">
-    <img src="https://img.shields.io/badge/GitHub-PriyanshuBhatt29-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+Building practical AI systems, intelligent applications, and software with a focus on **Machine Learning, Deep Learning, Computer Vision, and NLP**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:0e7490&text=BUILD.%20LEARN.%20DEPLOY.&fontColor=ffffff&fontSize=34&fontAlignY=60&animation=fadeIn" width="100%" alt="Build Learn Deploy">
+<br>
 
-</div>
+<a href="https://github.com/PriyanshuBhatt29">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/PriyanshuBhatt29?tab=repositories">Projects</a>
 
----
+<br><br>
 
-## ⚡ ABOUT ME
-
-I'm a **B.Tech Computer Science student specializing in AI/ML** who enjoys turning ideas into working systems.
-
-- 🧠 Building with **Machine Learning, Deep Learning, Computer Vision & NLP**
-- 💻 Comfortable across **Python, C++, Java and full-stack development**
-- 🚀 Interested in **AI-powered products, intelligent applications and scalable systems**
-- 🛠️ I like taking projects from **idea → model → application → deployment**
-- 🎵 Outside tech, I make music and explore creative technology
-
----
-
-## 🧠 TECH STACK
-
-<div align="center">
-
-### AI / ML
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI ML stack">
-
-### Development
-<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,flask,fastapi" alt="Development stack">
-
-### Data / Cloud / Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,aws,vscode,linux" alt="Tools stack">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,opencv,sklearn,react,fastapi,mysql,git,docker,aws" alt="Technology stack">
 
 </div>
 
 ---
 
-## 🚀 FEATURED WORK
+## About
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm a B.Tech Computer Science student specializing in **AI/ML**, interested in building systems that move beyond experimentation and into usable software.
 
-### 🛡️ NeuroFly-Safe
-**AI-powered major project**
-
-Computer-vision focused system designed around intelligent safety and detection workflows.
-
-**Focus:** AI · Computer Vision · Deep Learning
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Generative AI
-**Image generation & AI applications**
-
-Hands-on work with modern generative-AI pipelines and model-powered applications.
-
-**Focus:** Python · Transformers · Generative AI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧵 Concurrent Web Server
-**OS Concepts Visualizer**
-
-A Python-based web server demonstrating concurrency, threads, synchronization and scheduling concepts through an interactive interface.
-
-**Focus:** Python · Sockets · Threads · OS
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Odyssey
-**Interactive frontend experience**
-
-A visually-driven web experience using animations, Canvas, parallax effects and modern frontend techniques.
-
-**Focus:** JavaScript · Canvas · UI/UX
-
-</td>
-</tr>
-</table>
+- Developing projects across **ML, Deep Learning, Computer Vision, NLP, and Generative AI**
+- Building end-to-end applications that combine **models, APIs, databases, and interfaces**
+- Strong interest in **AI engineering, software development, and deployment**
+- Currently focused on strengthening my engineering fundamentals through real projects
 
 ---
 
-## 📊 GITHUB ACTIVITY
+## Selected Projects
+
+### [NeuroFly-Safe](https://github.com/PriyanshuBhatt29)
+
+**Major Project · AI / Computer Vision**
+
+An AI-focused safety system combining intelligent detection workflows with application-level engineering.
+
+**Python · AI/ML · Computer Vision · Deep Learning**
+
+---
+
+### [Generative AI Projects](https://github.com/PriyanshuBhatt29/PRODIGY_GA_03)
+
+**Internship Work · Generative AI**
+
+Hands-on implementation of generative AI workflows, including model-based image generation and experimentation.
+
+**Python · Transformers · Generative AI**
+
+---
+
+### [Concurrent Web Server & OS Visualizer](https://github.com/PriyanshuBhatt29/Multi-Thread-Web-Server---OS-Concepts-Visualizer)
+
+**Systems Project · Operating Systems**
+
+A Python web server and interactive visualizer demonstrating multithreading, synchronization, semaphores, mutexes, and scheduling concepts.
+
+**Python · Sockets · Threads · Concurrency · Operating Systems**
+
+---
+
+### [Odyssey](https://github.com/PriyanshuBhatt29/Odyssey)
+
+**Frontend Project · Interactive Web Experience**
+
+A visually focused web experience built with custom animations, Canvas, parallax effects, and modern JavaScript.
+
+**JavaScript · HTML · CSS · Canvas · UI/UX**
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · C++ · Java · C |
+| **AI / ML** | PyTorch · TensorFlow · Keras · Scikit-learn · OpenCV |
+| **Data** | NumPy · Pandas · Matplotlib |
+| **Web** | HTML · CSS · JavaScript · React · Flask · FastAPI |
+| **Databases** | MySQL · MongoDB |
+| **Tools** | Git · GitHub · VS Code · Jupyter · Docker |
+| **Cloud** | AWS |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PriyanshuBhatt29&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=PriyanshuBhatt29&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuBhatt29&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuBhatt29&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages">
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuBhatt29&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" width="70%" alt="GitHub Streak">
-
-</div>
-
 ---
 
-## 🔭 CURRENTLY
+## Current Focus
 
-```text
-AI / ML              ████████████████████  Building
-Computer Vision      ██████████████████░░  Exploring
-Full-Stack           ████████████████░░░░  Building
-Cloud / Deployment   ██████████████░░░░░░  Learning
-Music / Creativity   ███████████████████░  Always
-```
+**AI Engineering**  
+Building stronger foundations in model development, evaluation, and deployment.
 
----
+**Computer Vision & NLP**  
+Exploring practical applications rather than isolated model experiments.
 
-## 🧩 WHAT I LIKE BUILDING
-
-```text
-AI models             →  Intelligent applications
-ML pipelines          →  Real-world products
-Computer vision       →  Detection & automation
-NLP / LLM systems     →  Useful AI interfaces
-Full-stack systems    →  End-to-end experiences
-Creative technology   →  Where code meets art
-```
+**Full-Stack AI**  
+Connecting models and APIs to usable products and interfaces.
 
 ---
 
 <div align="center">
 
-### 💡 BUILD SOMETHING INTERESTING.
+### Let's build something useful.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=PriyanshuBhatt29&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+<sub>Open to internships, collaborations, and interesting engineering projects.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0e7490,50:111827,100:0f172a" width="100%" alt="Footer">
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PriyanshuBhatt29&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
