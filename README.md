@@ -1,135 +1,163 @@
 <div align="center">
 
-# Priyanshu Bhatt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1f2937&height=190&section=header&text=PRIYANSHU%20BHATT&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=15&descColor=a8ff78" width="100%"/>
 
-**AI/ML Developer · Computer Science Engineer · Full-Stack Developer**
+### Building AI systems that actually ship.
 
-Building practical AI systems, intelligent applications, and software with a focus on **Machine Learning, Deep Learning, Computer Vision, and NLP**.
+<p><a href="https://github.com/PriyanshuBhatt29"><img src="https://img.shields.io/badge/GitHub-PriyanshuBhatt29-111827?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/Featured%20Project-ResumeIQ-a8ff78?style=for-the-badge&logoColor=0b0f0a"/></a></p>
+
+<p><img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,opencv,sklearn,fastapi,react,mysql,docker,aws,git&perline=13" alt="Tech stack"/></p>
+
+</div>
+
+---
+
+## ⚡ About Me
+
+I'm a **B.Tech Computer Science student specializing in AI/ML**, focused on turning models and algorithms into usable software.
+
+`text`
+AI / ML        →  Machine Learning · Deep Learning · NLP · Computer Vision
+AI Engineering →  Models · APIs · Evaluation · Deployment
+Development    →  Python · C++ · Java · FastAPI · React
+Infrastructure →  Git · Docker · AWS · Linux
+`
+
+I enjoy working at the intersection of **machine learning + software engineering** — from training models to wrapping them in APIs and building interfaces people can actually use.
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 ResumeIQ
+
+**AI Resume Analyzer & Job Match Engine**
+
+Transformer-powered resume intelligence that combines semantic embeddings with explainable skill analysis.
+
+**Stack**
+
+`Python` `FastAPI` `Sentence Transformers` `NLP` `Scikit-learn` `Docker`
+
+<a href="https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer">View project →</a>
+
+</td>
+<td width="50%">
+
+### 🛡️ NeuroFly-Safe
+
+**AI / Computer Vision Major Project**
+
+A major AI project focused on intelligent safety workflows and computer-vision-driven analysis.
+
+**Stack**
+
+`Python` `AI/ML` `Computer Vision` `Deep Learning`
+
+<a href="https://github.com/PriyanshuBhatt29">Explore profile →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ OS Concepts Visualizer
+
+**Concurrent Web Server**
+
+Interactive visualization of multithreading, synchronization, semaphores, mutexes and scheduling.
+
+**Stack**
+
+`Python` `Sockets` `Threads` `Concurrency`
+
+<a href="https://github.com/PriyanshuBhatt29/Multi-Thread-Web-Server---OS-Concepts-Visualizer">View project →</a>
+
+</td>
+<td width="50%">
+
+### 🎨 Generative AI
+
+**AI Image Generation Projects**
+
+Hands-on generative AI experimentation and model-based image generation developed during internship work.
+
+**Stack**
+
+`Python` `Transformers` `Generative AI`
+
+<a href="https://github.com/PriyanshuBhatt29/PRODIGY_GA_03">View project →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technical Arsenal
+
+<table>
+<tr><td><b>Languages</b></td><td>Python · C++ · Java · C · JavaScript</td></tr>
+<tr><td><b>AI / ML</b></td><td>PyTorch · TensorFlow · Keras · Scikit-learn · OpenCV · Transformers</td></tr>
+<tr><td><b>Data</b></td><td>NumPy · Pandas · Matplotlib</td></tr>
+<tr><td><b>Backend</b></td><td>FastAPI · Flask · REST APIs · MySQL · MongoDB</td></tr>
+<tr><td><b>Frontend</b></td><td>HTML · CSS · JavaScript · React</td></tr>
+<tr><td><b>Engineering</b></td><td>Git · GitHub · Docker · VS Code · Jupyter · AWS</td></tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PriyanshuBhatt29&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8ff78&icon_color=a8ff78&text_color=c9d1d9&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuBhatt29&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8ff78&text_color=c9d1d9&langs_count=8" height="175"/>
 
 <br>
 
-<a href="https://github.com/PriyanshuBhatt29">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/PriyanshuBhatt29?tab=repositories">Projects</a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,opencv,sklearn,react,fastapi,mysql,git,docker,aws" alt="Technology stack">
+<img src="https://streak-stats.demolab.com?user=PriyanshuBhatt29&theme=dark&hide_border=true&background=0D1117&ring=A8FF78&fire=A8FF78&currStreakLabel=A8FF78" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## About
+## 🎯 Current Focus
 
-I'm a B.Tech Computer Science student specializing in **AI/ML**, interested in building systems that move beyond experimentation and into usable software.
-
-- Developing projects across **ML, Deep Learning, Computer Vision, NLP, and Generative AI**
-- Building end-to-end applications that combine **models, APIs, databases, and interfaces**
-- Strong interest in **AI engineering, software development, and deployment**
-- Currently focused on strengthening my engineering fundamentals through real projects
-
----
-
-## Selected Projects
-
-### [ResumeIQ — AI Resume Analyzer](https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer)
-
-**AI Engineering Project · NLP / Transformers**
-
-A production-style resume intelligence engine that combines Transformer embeddings, cosine similarity, explainable skill extraction, gap analysis, and an interactive FastAPI dashboard.
-
-**Python · FastAPI · Sentence Transformers · Scikit-learn · NLP · Docker**
+<table>
+<tr><td>01</td><td><b>AI Engineering</b><br><sub>Building reliable ML systems, APIs and production-oriented workflows.</sub></td></tr>
+<tr><td>02</td><td><b>Computer Vision & NLP</b><br><sub>Exploring practical applications of deep learning and transformer architectures.</sub></td></tr>
+<tr><td>03</td><td><b>Full-Stack AI</b><br><sub>Connecting intelligent models to polished, usable products.</sub></td></tr>
+<tr><td>04</td><td><b>Open Source & Internships</b><br><sub>Turning projects into stronger engineering experience and portfolio work.</sub></td></tr>
+</table>
 
 ---
 
-### [NeuroFly-Safe](https://github.com/PriyanshuBhatt29)
-
-**Major Project · AI / Computer Vision**
-
-An AI-focused safety system combining intelligent detection workflows with application-level engineering.
-
-**Python · AI/ML · Computer Vision · Deep Learning**
-
----
-
-### [Generative AI Projects](https://github.com/PriyanshuBhatt29/PRODIGY_GA_03)
-
-**Internship Work · Generative AI**
-
-Hands-on implementation of generative AI workflows, including model-based image generation and experimentation.
-
-**Python · Transformers · Generative AI**
-
----
-
-### [Concurrent Web Server & OS Visualizer](https://github.com/PriyanshuBhatt29/Multi-Thread-Web-Server---OS-Concepts-Visualizer)
-
-**Systems Project · Operating Systems**
-
-A Python web server and interactive visualizer demonstrating multithreading, synchronization, semaphores, mutexes, and scheduling concepts.
-
-**Python · Sockets · Threads · Concurrency · Operating Systems**
-
----
-
-### [Odyssey](https://github.com/PriyanshuBhatt29/Odyssey)
-
-**Frontend Project · Interactive Web Experience**
-
-A visually focused web experience built with custom animations, Canvas, parallax effects, and modern JavaScript.
-
-**JavaScript · HTML · CSS · Canvas · UI/UX**
-
----
-
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| **Languages** | Python · C++ · Java · C |
-| **AI / ML** | PyTorch · TensorFlow · Keras · Scikit-learn · OpenCV |
-| **Data** | NumPy · Pandas · Matplotlib |
-| **Web** | HTML · CSS · JavaScript · React · Flask · FastAPI |
-| **Databases** | MySQL · MongoDB |
-| **Tools** | Git · GitHub · VS Code · Jupyter · Docker |
-| **Cloud** | AWS |
-
----
-
-## GitHub Activity
+## 🧩 What I Like Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PriyanshuBhatt29&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuBhatt29&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages">
+**AI Applications** &nbsp; • &nbsp; **Computer Vision** &nbsp; • &nbsp; **NLP Systems**  
+**Generative AI** &nbsp; • &nbsp; **Developer Tools** &nbsp; • &nbsp; **Full-Stack Products**
 
 </div>
 
 ---
 
-## Current Focus
-
-**AI Engineering**  
-Building stronger foundations in model development, evaluation, and deployment.
-
-**Computer Vision & NLP**  
-Exploring practical applications rather than isolated model experiments.
-
-**Full-Stack AI**  
-Connecting models and APIs to usable products and interfaces.
-
----
-
 <div align="center">
 
-### Let's build something useful.
+### Let's build something intelligent.
 
-<sub>Open to internships, collaborations, and interesting engineering projects.</sub>
+<a href="https://github.com/PriyanshuBhatt29?tab=repositories">Explore my repositories →</a>
 
 <br><br>
+<img src="https://komarev.com/ghpvc/?username=PriyanshuBhatt29&style=for-the-badge&color=111827&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://komarev.com/ghpvc/?username=PriyanshuBhatt29&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
