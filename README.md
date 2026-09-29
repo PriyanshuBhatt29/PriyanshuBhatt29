@@ -28,6 +28,16 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HashZard/codex-longbao-pet/main/assets/longbao-character-reference.png" width="180" alt="Dragon mascot"/>
+
+### 🐉 My AI guardian has entered the repository.
+
+<sub>Fueled by commits, caffeine & questionable debugging decisions.</sub>
+
+</div>
+
 ## 🧠 About Me
 
 > **Computer Science student • AI/ML specialist • builder**
