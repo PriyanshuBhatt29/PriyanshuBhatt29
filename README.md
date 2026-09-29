@@ -33,6 +33,16 @@ I'm a B.Tech Computer Science student specializing in **AI/ML**, interested in b
 
 ## Selected Projects
 
+### [ResumeIQ — AI Resume Analyzer](https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer)
+
+**AI Engineering Project · NLP / Transformers**
+
+A production-style resume intelligence engine that combines Transformer embeddings, cosine similarity, explainable skill extraction, gap analysis, and an interactive FastAPI dashboard.
+
+**Python · FastAPI · Sentence Transformers · Scikit-learn · NLP · Docker**
+
+---
+
 ### [NeuroFly-Safe](https://github.com/PriyanshuBhatt29)
 
 **Major Project · AI / Computer Vision**
