@@ -30,11 +30,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HashZard/codex-longbao-pet/main/assets/longbao-character-reference.png" width="180" alt="Dragon mascot"/>
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/japan-aesthetic.svg" width="100%" alt="Japanese aesthetic — Mount Fuji, torii gate, sakura and neon city"/>
 
-### 🐉 My AI guardian has entered the repository.
+### 🌸 コード • 創造 • 進化
 
-<sub>Fueled by commits, caffeine & questionable debugging decisions.</sub>
+<sub>AI, code & creativity — inspired by Japanese minimalism and neon nights.</sub>
 
 </div>
 
