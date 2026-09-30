@@ -9,6 +9,8 @@
   <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="260" rx="24" fill="url(#sky)"/>
+<path d="M0 25 H1200 M0 55 H1200 M0 85 H1200 M0 115 H1200 M0 145 H1200 M0 175 H1200 M0 205 H1200 M0 235 H1200" stroke="#FF1744" stroke-opacity=".06" stroke-width="1"/>
+<path d="M40 24 H170 M1030 24 H1160 M40 236 H170 M1030 236 H1160" stroke="#FF1744" stroke-width="2"/>
 <circle cx="950" cy="78" r="48" fill="#FF1744" opacity=".95" filter="url(#glow)"/>
 <path d="M0 190 Q160 155 320 190 T640 190 T960 190 T1280 190 V260 H0Z" fill="url(#water)"/>
 <path d="M0 207 Q140 178 280 207 T560 207 T840 207 T1120 207 T1400 207" fill="none" stroke="#8F001C" stroke-opacity=".55" stroke-width="2"/>
@@ -29,8 +31,8 @@
  <circle cx="108" cy="50" r="6"/>
 </g>
 <!-- Japanese text -->
-<text x="600" y="42" text-anchor="middle" fill="#FF1744" font-family="Noto Sans JP, sans-serif" font-size="22" font-weight="700" letter-spacing="6">ようこそ • AI × CODE • 美学</text>
-<text x="600" y="238" text-anchor="middle" fill="#F2F2F2" font-family="monospace" font-size="13" letter-spacing="4">BUILD • CREATE • SHIP • REPEAT</text>
+<text x="600" y="42" text-anchor="middle" fill="#FF1744" font-family="Noto Sans JP, sans-serif" font-size="22" font-weight="700" letter-spacing="6">東京 • AI × CODE • 未来</text>
+<text x="600" y="238" text-anchor="middle" fill="#F2F2F2" font-family="monospace" font-size="13" letter-spacing="4">NEURAL SYSTEM // 001 // BUILD • CREATE • SHIP</text>
 <!-- city lights -->
 <g fill="#FF1744" opacity=".8">
  <rect x="780" y="152" width="8" height="38"/><rect x="800" y="132" width="10" height="58"/>
