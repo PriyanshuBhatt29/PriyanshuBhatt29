@@ -30,11 +30,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/japan-aesthetic.svg" width="100%" alt="Futuristic Tokyo cyberpunk AI artwork"/>
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/thunder.svg" width="100%" alt="Red thunder neural engineering visual"/>
 
-### ◢ SYSTEM ONLINE // CODE • AI • CREATE ◣
+### ⚡ SYSTEM ONLINE // CODE • AI • CREATE ⚡
 
-<sub>東京 // NEURAL SYSTEMS // DIGITAL ARCHITECTURE // 未来</sub>
+<sub>NEURAL SYSTEMS // DIGITAL ARCHITECTURE // HIGH VOLTAGE ENGINEERING</sub>
 
 <br><br>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🟥 NEURAL PROFILE
+## ⚡ THUNDER PROFILE
 
 
 
@@ -72,7 +72,7 @@ I'm focused on turning **models, algorithms, and ideas into usable software**.
 
 ---
 
-## ◢ FEATURED SYSTEMS
+## ⚡ FEATURED SYSTEMS
 
 <table>
 <tr>
@@ -191,7 +191,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 ---
 
-## ◢ TECHNICAL ARSENAL
+## ⚡ TECHNICAL ARSENAL
 
 <div align="center">
 
@@ -210,7 +210,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 ---
 
-## ◢ GITHUB COMMAND CENTER
+## ⚡ GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -223,13 +223,13 @@ Generative AI experimentation and model-based image generation from internship w
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshuBhatt29&theme=tokyonight" width="92%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshuBhatt29&theme=github_dark" width="92%"/>
 
 </div>
 
 ---
 
-## ◢ CURRENT MISSION
+## ⚡ CURRENT MISSION
 
 <table>
 <tr><td>01</td><td>🧠 <b>AI Engineering</b><br><sub>Reliable ML systems, evaluation pipelines and deployment.</sub></td></tr>
@@ -242,7 +242,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 <div align="center">
 
-## ◢ BUILD // BREAK // LEARN // SHIP
+## ⚡ BUILD // BREAK // LEARN // SHIP
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=Experiment+with+ideas.;Turn+models+into+systems.;Make+the+interface+beautiful.;Ship+something+useful." alt="Closing animation"/>
 
