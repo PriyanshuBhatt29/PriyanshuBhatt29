@@ -24,6 +24,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/neural-dragon.svg" width="96%" alt="Floating red neural dragon"/>
+
 <img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/thunder.svg" width="96%" alt="Thunder engineering visual"/>
 
 </div>
