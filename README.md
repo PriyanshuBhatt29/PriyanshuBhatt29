@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:180507,70:B30021,100:FF1744&height=230&section=header&text=PRIYANSHU%20BHATT&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descAlignY=61&descSize=15&descColor=FF1744&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:120407,75:B30021,100:FF1744&height=210&section=header&text=PRIYANSHU%20BHATT&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descAlignY=61&descSize=14&descColor=FF6B81&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/PriyanshuBhatt29"><img src="https://img.shields.io/badge/AI%2FML-B30021?style=for-the-badge&logo=googlebrain&logoColor=white"/></a>
 <a href="https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/ResumeIQ-FF1744?style=for-the-badge&logo=probot&logoColor=0A0A0A"/></a>
@@ -32,47 +32,42 @@
 
 <img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/thunder.svg" width="100%" alt="Red thunder neural engineering visual"/>
 
-### ⚡ SYSTEM ONLINE // CODE • AI • CREATE ⚡
+### ⚡ SYSTEM ONLINE · CODE · AI · CREATE ⚡
 
-<sub>NEURAL SYSTEMS // DIGITAL ARCHITECTURE // HIGH VOLTAGE ENGINEERING</sub>
+<sub>NEURAL SYSTEMS · DIGITAL ARCHITECTURE · HIGH-VOLTAGE ENGINEERING</sub>
 
 <br><br>
 
-<code>STATUS: ONLINE&nbsp;&nbsp;|&nbsp;&nbsp;CORE: AI/ML&nbsp;&nbsp;|&nbsp;&nbsp;MODE: BUILD&nbsp;&nbsp;|&nbsp;&nbsp;THREAT LEVEL: DEBUGGING</code>
+<code>● ONLINE&nbsp;&nbsp;·&nbsp;&nbsp;AI/ML CORE&nbsp;&nbsp;·&nbsp;&nbsp;BUILD MODE&nbsp;&nbsp;·&nbsp;&nbsp;DEBUGGING</code>
 
 </div>
 
 ---
 
-## ⚡ THUNDER PROFILE
+## ⚡ ABOUT ME
 
 
 
-> **Computer Science student • AI/ML specialist • builder**
+> **Computer Science student · AI/ML specialist · builder**
 
 I'm focused on turning **models, algorithms, and ideas into usable software**.
 
-<pre><code>[ SYSTEM LOG ]
-> booting neural stack...
-> loading models............. OK
-> loading APIs............... OK
-> loading deployment......... OK
-> interface.................. ONLINE
-> mission.................... BUILD THE FUTURE
-</code></pre>
+<div align="center"><sub>⚡ BUILDING INTELLIGENT SYSTEMS · FROM MODEL TO PRODUCT ⚡</sub></div>
 
 <table>
 <tr>
-<td width="25%" align="center">🤖<br><b>AI / ML</b><br><sub>ML · DL · NLP · CV</sub></td>
+<td width="25%" align="center">🧠<br><b>AI / ML</b><br><sub>ML · DL · NLP · CV</sub></td>
 <td width="25%" align="center">⚡<br><b>AI Engineering</b><br><sub>Models · APIs · Deployment</sub></td>
 <td width="25%" align="center">💻<br><b>Development</b><br><sub>Python · C++ · React</sub></td>
 <td width="25%" align="center">☁️<br><b>Infrastructure</b><br><sub>Git · Docker · AWS</sub></td>
 </tr>
 </table>
+</tr>
+</table>
 
 ---
 
-## ⚡ FEATURED SYSTEMS
+## ⚡ FEATURED PROJECTS
 
 <table>
 <tr>
@@ -191,7 +186,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 ---
 
-## ⚡ TECHNICAL ARSENAL
+## ⚡ TECH STACK
 
 <div align="center">
 
@@ -210,7 +205,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 ---
 
-## ⚡ GITHUB COMMAND CENTER
+## ⚡ GITHUB STATS
 
 <div align="center">
 
@@ -229,7 +224,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 ---
 
-## ⚡ CURRENT MISSION
+## ⚡ CURRENT FOCUS
 
 <table>
 <tr><td>01</td><td>🧠 <b>AI Engineering</b><br><sub>Reliable ML systems, evaluation pipelines and deployment.</sub></td></tr>
@@ -242,7 +237,7 @@ Generative AI experimentation and model-based image generation from internship w
 
 <div align="center">
 
-## ⚡ BUILD // BREAK // LEARN // SHIP
+## ⚡ BUILD · BREAK · LEARN · SHIP
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=Experiment+with+ideas.;Turn+models+into+systems.;Make+the+interface+beautiful.;Ship+something+useful." alt="Closing animation"/>
 
