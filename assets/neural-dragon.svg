@@ -1,69 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
 <defs>
- <radialGradient id="bg"><stop stop-color="#16050a"/><stop offset=".7" stop-color="#070707"/><stop offset="1" stop-color="#030303"/></radialGradient>
- <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff526d"/><stop offset=".35" stop-color="#d90835"/><stop offset="1" stop-color="#650016"/></linearGradient>
- <linearGradient id="wing" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff3b5d"/><stop offset="1" stop-color="#4d0011"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+ <linearGradient id="paint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff3154"/><stop offset=".5" stop-color="#c8002b"/><stop offset="1" stop-color="#5b0014"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#26313b"/><stop offset=".55" stop-color="#0b1015"/><stop offset="1" stop-color="#050505"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="shadow"><feGaussianBlur stdDeviation="14"/></filter>
 </defs>
-<rect width="1200" height="620" rx="28" fill="url(#bg)"/>
-<ellipse cx="600" cy="525" rx="380" ry="35" fill="#e5092f" opacity=".12" filter="url(#shadow)"/>
-
-<!-- tail behind body -->
-<path d="M505 410 C390 490 260 500 175 433 C115 386 130 307 195 292 C242 281 274 316 255 349 C226 347 211 365 230 386 C286 446 390 418 485 348" fill="none" stroke="#540012" stroke-width="48" stroke-linecap="round"/>
-<path d="M505 410 C390 490 260 500 175 433 C115 386 130 307 195 292 C242 281 274 316 255 349 C226 347 211 365 230 386" fill="none" stroke="url(#body)" stroke-width="30" stroke-linecap="round"/>
-
-<!-- left wing -->
-<path d="M500 315 C430 275 356 207 335 95 C400 105 473 140 544 225 L559 322 Z" fill="url(#wing)" stroke="#ff4263" stroke-width="6"/>
-<path d="M348 112 L484 277 M369 126 L512 282 M407 142 L530 292 M454 165 L541 300" stroke="#ff9bad" stroke-width="3" opacity=".55"/>
-
-<!-- right wing -->
-<path d="M665 300 C736 226 808 139 888 119 C887 225 839 303 741 348 Z" fill="url(#wing)" stroke="#ff4263" stroke-width="6"/>
-<path d="M858 143 L707 293 M835 156 L687 305 M802 177 L676 315 M765 205 L664 318" stroke="#ff9bad" stroke-width="3" opacity=".55"/>
-
-<!-- body -->
-<path d="M450 310 C482 248 559 216 643 231 C721 245 775 304 755 372 C735 440 638 471 545 438 C473 413 426 366 450 310Z" fill="url(#body)" stroke="#ff4263" stroke-width="7"/>
-
-<!-- neck -->
-<path d="M604 276 C574 226 582 160 630 119 C671 84 732 91 763 130 C792 167 782 226 744 261 C710 291 653 300 604 276Z" fill="url(#body)" stroke="#ff4263" stroke-width="7"/>
-
-<!-- head -->
-<path d="M688 139 C728 91 802 83 857 113 C900 137 922 178 907 218 C894 254 851 274 805 263 L763 241 L719 252 L681 222 L664 179Z" fill="url(#body)" stroke="#ff4263" stroke-width="7"/>
-
-<!-- horns -->
-<path d="M718 126 C684 91 681 45 708 13 C715 57 735 76 759 101" fill="#5a0015" stroke="#ff4263" stroke-width="6"/>
-<path d="M785 104 C782 60 806 25 844 8 C828 48 834 76 849 98" fill="#5a0015" stroke="#ff4263" stroke-width="6"/>
-
-<!-- ears -->
-<path d="M693 150 L646 119 L663 180Z" fill="#78001b" stroke="#ff4263" stroke-width="5"/>
-<path d="M846 125 L895 99 L878 164Z" fill="#78001b" stroke="#ff4263" stroke-width="5"/>
-
-<!-- muzzle -->
-<path d="M824 198 C874 186 927 199 970 230 C933 256 881 265 832 246 L790 224Z" fill="#a60028" stroke="#ff4263" stroke-width="6"/>
-<path d="M873 245 L885 275 L900 247 M907 240 L922 266 L934 235" fill="none" stroke="#ffe3e8" stroke-width="4"/>
-
-<!-- eyes -->
-<path d="M770 157 Q795 136 820 157 Q797 181 770 157Z" fill="#160006" stroke="#ffb1bd" stroke-width="3"/>
-<ellipse cx="795" cy="158" rx="6" ry="9" fill="#fff" filter="url(#glow)"/>
-<path d="M771 157 Q796 140 820 157" fill="none" stroke="#ff1744" stroke-width="5"/>
-
-<!-- facial armor -->
-<path d="M744 181 L708 198 L747 204 M752 207 L716 226 L757 229 M832 178 L867 188 L839 200" fill="none" stroke="#ff9bad" stroke-width="4"/>
-
-<!-- chest plates -->
-<g fill="none" stroke="#ff9bad" stroke-width="3" opacity=".65">
- <path d="M484 310 Q515 338 546 310 M519 291 Q550 320 581 291 M556 278 Q587 307 618 278"/>
- <path d="M482 354 Q514 383 546 354 M522 373 Q554 402 586 373 M565 387 Q598 414 630 387"/>
+<rect width="1200" height="520" rx="28" fill="#050505"/>
+<ellipse cx="600" cy="405" rx="410" ry="38" fill="#e5092f" opacity=".16" filter="url(#shadow)"/>
+<!-- speed trails -->
+<g fill="none" stroke-linecap="round">
+ <path d="M105 322H310" stroke="#5b0014" stroke-width="10"/>
+ <path d="M75 345H270" stroke="#ff1744" stroke-width="3" opacity=".65"/>
+ <path d="M890 337H1090" stroke="#5b0014" stroke-width="10"/>
+ <path d="M930 360H1130" stroke="#ff1744" stroke-width="3" opacity=".65"/>
 </g>
-
-<!-- claws -->
-<path d="M520 421 C492 452 481 479 483 505 M561 435 C544 466 540 490 547 515 M692 421 C720 447 731 474 727 501" fill="none" stroke="#ff4263" stroke-width="11" stroke-linecap="round"/>
-<path d="M483 505 l-13 18 M547 515 l-4 21 M727 501 l12 17" stroke="#ffe3e8" stroke-width="4" stroke-linecap="round"/>
-
-<!-- subtle sparks -->
-<g fill="#ff1744" filter="url(#glow)">
- <circle cx="300" cy="190" r="4"/><circle cx="932" cy="142" r="4"/><circle cx="1002" cy="313" r="3"/>
+<!-- rear body -->
+<path d="M258 342 C285 291 343 265 421 253 L506 180 C554 137 622 119 698 139 L787 173 C839 193 884 230 918 276 L1002 302 C1031 311 1052 334 1055 357 L1030 373 H262 C239 363 240 351 258 342Z" fill="url(#paint)" stroke="#ff4263" stroke-width="5"/>
+<!-- roof and windows -->
+<path d="M435 253 L514 183 C553 150 606 136 667 145 L758 177 C789 188 814 208 839 235 L445 235Z" fill="#090b0e" stroke="#ff7187" stroke-width="3"/>
+<path d="M527 188 C559 160 604 149 654 153 L689 157 L690 225 H469Z" fill="url(#glass)" stroke="#9aa4ad" stroke-width="2"/>
+<path d="M700 158 L751 179 C778 190 798 205 820 228 H701Z" fill="url(#glass)" stroke="#9aa4ad" stroke-width="2"/>
+<!-- center roof line -->
+<path d="M695 156V227" stroke="#ff3154" stroke-width="3" opacity=".8"/>
+<!-- front hood -->
+<path d="M818 236 C858 246 896 266 920 291 L1010 316 C1030 322 1038 333 1040 344 H839 L802 281Z" fill="#a80024" stroke="#ff3154" stroke-width="4"/>
+<!-- splitter -->
+<path d="M834 365 H1050 L1034 380 H816" fill="#30000b" stroke="#ff3154" stroke-width="3"/>
+<!-- rear haunch -->
+<path d="M265 337 C282 292 325 273 377 269 L430 292 L408 345 H257Z" fill="#b90029"/>
+<!-- wheels -->
+<g>
+ <circle cx="389" cy="356" r="69" fill="#030303" stroke="#ff3154" stroke-width="6"/>
+ <circle cx="389" cy="356" r="42" fill="#17191c" stroke="#7b1a2b" stroke-width="4"/>
+ <circle cx="389" cy="356" r="12" fill="#e5092f"/>
+ <path d="M389 314V398 M347 356H431 M359 326L419 386 M419 326L359 386" stroke="#777" stroke-width="4"/>
+ <circle cx="835" cy="356" r="69" fill="#030303" stroke="#ff3154" stroke-width="6"/>
+ <circle cx="835" cy="356" r="42" fill="#17191c" stroke="#7b1a2b" stroke-width="4"/>
+ <circle cx="835" cy="356" r="12" fill="#e5092f"/>
+ <path d="M835 314V398 M793 356H877 M805 326L865 386 M865 326L805 386" stroke="#777" stroke-width="4"/>
 </g>
-
-<text x="600" y="578" text-anchor="middle" fill="#777" font-family="monospace" font-size="13" letter-spacing="7">NEURAL DRAGON  •  AI ENGINEERING</text>
+<!-- lighting -->
+<path d="M922 294 L1000 316 L1019 333 H928 L902 318Z" fill="#ff1744" filter="url(#glow)"/>
+<path d="M287 317 H365" stroke="#ff8b9d" stroke-width="5"/>
+<!-- performance details -->
+<path d="M461 275 H772" stroke="#ff7187" stroke-width="2" opacity=".65"/>
+<path d="M520 299 H780" stroke="#600016" stroke-width="8"/>
+<circle cx="799" cy="277" r="4" fill="#fff" filter="url(#glow)"/>
+<text x="600" y="455" text-anchor="middle" fill="#777" font-family="monospace" font-size="13" letter-spacing="7">VISIONX  •  AI / PERFORMANCE ENGINEERING</text>
 </svg>
