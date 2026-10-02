@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/neural-dragon.svg?v=2" width="96%" alt="Red neural dragon"/>
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/neural-dragon.svg?v=2" width="96%" alt="Red performance car"/>
 
 </div>
 
