@@ -1,44 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:120407,75:B30021,100:FF1744&height=210&section=header&text=PRIYANSHU%20BHATT&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descAlignY=61&descSize=14&descColor=FF6B81&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:100306,75:B30021,100:FF1744&height=190&section=header&text=PRIYANSHU%20BHATT&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=61&descSize=13&descColor=FF6B81&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/PriyanshuBhatt29"><img src="https://img.shields.io/badge/AI%2FML-B30021?style=for-the-badge&logo=googlebrain&logoColor=white"/></a>
-<a href="https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/ResumeIQ-FF1744?style=for-the-badge&logo=probot&logoColor=0A0A0A"/></a>
-<a href="https://github.com/PriyanshuBhatt29?tab=repositories"><img src="https://img.shields.io/badge/Projects-E6002E?style=for-the-badge&logo=github&logoColor=0A0A0A"/></a>
+### ⚡ AI • SYSTEMS • BUILD
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=700&color=FF3154&center=true&vCenter=true&width=620&lines=BUILDING+INTELLIGENT+SYSTEMS;COMPUTER+VISION+%2B+NLP+%2B+GENERATIVE+AI;MODELS+%E2%86%92+APIs+%E2%86%92+PRODUCTS;CODE.+CREATE.+SHIP." alt="Typing introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=650&lines=INITIALIZING+AI+SYSTEMS...;MACHINE+LEARNING+%E2%80%A2+NLP+%E2%80%A2+COMPUTER+VISION;MODELS+%2B+APIs+%2B+DEPLOYMENT;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME." alt="Typing introduction"/>
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,opencv,sklearn,fastapi,react,mysql,mongodb,docker,aws,git&perline=14" alt="Technology stack"/>
+<a href="https://github.com/PriyanshuBhatt29?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-FF1744?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/PriyanshuBhatt29/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/RESUMEIQ-B30021?style=for-the-badge&logo=probot&logoColor=white"/></a>
+<a href="https://github.com/PriyanshuBhatt29/VISIONX"><img src="https://img.shields.io/badge/VISIONX-8F001C?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-B30021?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF003C?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-FF1744?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-E6002E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8F001C?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,opencv,fastapi,react,mysql,docker,aws,git&perline=12" alt="Technology stack"/>
+
+<br>
+
+<sub>⚡ AI/ML &nbsp;•&nbsp; COMPUTER VISION &nbsp;•&nbsp; NLP &nbsp;•&nbsp; FULL-STACK &nbsp;•&nbsp; CLOUD</sub>
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/thunder.svg" width="100%" alt="Red thunder neural engineering visual"/>
-
-### ⚡ SYSTEM ONLINE · CODE · AI · CREATE ⚡
-
-<sub>NEURAL SYSTEMS · DIGITAL ARCHITECTURE · HIGH-VOLTAGE ENGINEERING</sub>
-
-<br><br>
-
-<code>● ONLINE&nbsp;&nbsp;·&nbsp;&nbsp;AI/ML CORE&nbsp;&nbsp;·&nbsp;&nbsp;BUILD MODE&nbsp;&nbsp;·&nbsp;&nbsp;DEBUGGING</code>
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/thunder.svg" width="96%" alt="Thunder engineering visual"/>
 
 </div>
 
