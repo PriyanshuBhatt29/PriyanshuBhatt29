@@ -1,43 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620">
 <defs>
-<linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff4a67"/><stop offset=".45" stop-color="#d6002f"/><stop offset="1" stop-color="#650015"/></linearGradient>
-<linearGradient id="w" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff3154"/><stop offset="1" stop-color="#520010"/></linearGradient>
-<filter id="g"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <radialGradient id="bg"><stop stop-color="#16050a"/><stop offset=".7" stop-color="#070707"/><stop offset="1" stop-color="#030303"/></radialGradient>
+ <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff526d"/><stop offset=".35" stop-color="#d90835"/><stop offset="1" stop-color="#650016"/></linearGradient>
+ <linearGradient id="wing" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff3b5d"/><stop offset="1" stop-color="#4d0011"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
 </defs>
-<rect width="1200" height="500" rx="24" fill="#050505"/>
-<ellipse cx="600" cy="430" rx="430" ry="24" fill="#e5092f" opacity=".13"/>
-<!-- wings -->
-<path d="M485 245C395 188 340 90 365 38C430 63 505 102 555 167L535 258Z" fill="url(#w)" stroke="#ff3154" stroke-width="4"/>
-<path d="M402 70L475 196M371 53L443 201M450 88L505 205" fill="none" stroke="#ff9aaa" stroke-width="2" opacity=".65"/>
-<path d="M625 222C720 150 790 90 835 112C842 171 817 236 753 276L654 278Z" fill="url(#w)" stroke="#ff3154" stroke-width="4"/>
-<path d="M806 129L675 246M830 153L704 263M820 193L735 270" fill="none" stroke="#ff9aaa" stroke-width="2" opacity=".6"/>
-<!-- tail -->
-<path d="M525 330C420 385 300 399 215 350C165 321 145 274 180 246C210 222 245 242 248 269C218 274 210 291 228 306C290 355 399 318 487 278" fill="none" stroke="#790019" stroke-width="34" stroke-linecap="round"/>
-<path d="M525 330C420 385 300 399 215 350C165 321 145 274 180 246C210 222 245 242 248 269" fill="none" stroke="url(#s)" stroke-width="22" stroke-linecap="round"/>
-<!-- body and neck -->
-<path d="M440 286C485 245 555 222 635 242C703 259 738 313 695 354C645 402 538 388 474 348" fill="url(#s)" stroke="#ff3154" stroke-width="5"/>
-<path d="M602 275C570 227 573 168 621 132C659 104 711 112 739 143C766 174 760 218 730 248C703 275 656 286 602 275Z" fill="url(#s)" stroke="#ff3154" stroke-width="5"/>
+<rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+<ellipse cx="600" cy="525" rx="380" ry="35" fill="#e5092f" opacity=".12" filter="url(#shadow)"/>
+
+<!-- tail behind body -->
+<path d="M505 410 C390 490 260 500 175 433 C115 386 130 307 195 292 C242 281 274 316 255 349 C226 347 211 365 230 386 C286 446 390 418 485 348" fill="none" stroke="#540012" stroke-width="48" stroke-linecap="round"/>
+<path d="M505 410 C390 490 260 500 175 433 C115 386 130 307 195 292 C242 281 274 316 255 349 C226 347 211 365 230 386" fill="none" stroke="url(#body)" stroke-width="30" stroke-linecap="round"/>
+
+<!-- left wing -->
+<path d="M500 315 C430 275 356 207 335 95 C400 105 473 140 544 225 L559 322 Z" fill="url(#wing)" stroke="#ff4263" stroke-width="6"/>
+<path d="M348 112 L484 277 M369 126 L512 282 M407 142 L530 292 M454 165 L541 300" stroke="#ff9bad" stroke-width="3" opacity=".55"/>
+
+<!-- right wing -->
+<path d="M665 300 C736 226 808 139 888 119 C887 225 839 303 741 348 Z" fill="url(#wing)" stroke="#ff4263" stroke-width="6"/>
+<path d="M858 143 L707 293 M835 156 L687 305 M802 177 L676 315 M765 205 L664 318" stroke="#ff9bad" stroke-width="3" opacity=".55"/>
+
+<!-- body -->
+<path d="M450 310 C482 248 559 216 643 231 C721 245 775 304 755 372 C735 440 638 471 545 438 C473 413 426 366 450 310Z" fill="url(#body)" stroke="#ff4263" stroke-width="7"/>
+
+<!-- neck -->
+<path d="M604 276 C574 226 582 160 630 119 C671 84 732 91 763 130 C792 167 782 226 744 261 C710 291 653 300 604 276Z" fill="url(#body)" stroke="#ff4263" stroke-width="7"/>
+
 <!-- head -->
-<path d="M678 155C710 113 770 99 818 121C854 138 877 168 871 198C865 227 833 244 796 239L754 221L716 232L681 211L662 182Z" fill="url(#s)" stroke="#ff3154" stroke-width="5"/>
+<path d="M688 139 C728 91 802 83 857 113 C900 137 922 178 907 218 C894 254 851 274 805 263 L763 241 L719 252 L681 222 L664 179Z" fill="url(#body)" stroke="#ff4263" stroke-width="7"/>
+
 <!-- horns -->
-<path d="M706 139C675 105 674 67 699 38C703 78 722 94 742 112" fill="#690017" stroke="#ff3154" stroke-width="4"/>
-<path d="M766 119C762 79 782 49 815 32C801 69 806 91 820 112" fill="#690017" stroke="#ff3154" stroke-width="4"/>
-<!-- jaw -->
-<path d="M803 185C842 177 884 185 918 207C889 226 850 235 808 224L778 210" fill="#9d0023" stroke="#ff3154" stroke-width="4"/>
-<path d="M838 218L850 238L862 219M867 214L880 231L891 207" fill="none" stroke="#ffd8df" stroke-width="3"/>
-<!-- eye -->
-<path d="M774 157Q793 143 812 158Q794 176 774 157Z" fill="#210006" stroke="#ff9aaa" stroke-width="2"/>
-<circle cx="794" cy="158" r="5" fill="#fff" filter="url(#g)"/>
-<!-- face -->
-<path d="M731 177l-20 12 24 2M741 198l-22 10 26 4M822 169l22 7-19 9" fill="none" stroke="#ff9aaa" stroke-width="3" opacity=".75"/>
-<!-- claws -->
-<path d="M515 337C486 360 471 380 469 399M545 348C528 375 524 394 528 411M657 345C684 367 694 386 691 405" fill="none" stroke="#ff3154" stroke-width="8" stroke-linecap="round"/>
-<!-- scales -->
-<g fill="none" stroke="#ff9aaa" stroke-width="2" opacity=".5">
-<path d="M485 290q15 15 30 0M520 277q15 15 30 0M556 268q15 15 30 0M594 268q15 15 30 0"/>
-<path d="M500 322q15 15 30 0M537 317q15 15 30 0M575 319q15 15 30 0M613 326q15 15 30 0"/>
+<path d="M718 126 C684 91 681 45 708 13 C715 57 735 76 759 101" fill="#5a0015" stroke="#ff4263" stroke-width="6"/>
+<path d="M785 104 C782 60 806 25 844 8 C828 48 834 76 849 98" fill="#5a0015" stroke="#ff4263" stroke-width="6"/>
+
+<!-- ears -->
+<path d="M693 150 L646 119 L663 180Z" fill="#78001b" stroke="#ff4263" stroke-width="5"/>
+<path d="M846 125 L895 99 L878 164Z" fill="#78001b" stroke="#ff4263" stroke-width="5"/>
+
+<!-- muzzle -->
+<path d="M824 198 C874 186 927 199 970 230 C933 256 881 265 832 246 L790 224Z" fill="#a60028" stroke="#ff4263" stroke-width="6"/>
+<path d="M873 245 L885 275 L900 247 M907 240 L922 266 L934 235" fill="none" stroke="#ffe3e8" stroke-width="4"/>
+
+<!-- eyes -->
+<path d="M770 157 Q795 136 820 157 Q797 181 770 157Z" fill="#160006" stroke="#ffb1bd" stroke-width="3"/>
+<ellipse cx="795" cy="158" rx="6" ry="9" fill="#fff" filter="url(#glow)"/>
+<path d="M771 157 Q796 140 820 157" fill="none" stroke="#ff1744" stroke-width="5"/>
+
+<!-- facial armor -->
+<path d="M744 181 L708 198 L747 204 M752 207 L716 226 L757 229 M832 178 L867 188 L839 200" fill="none" stroke="#ff9bad" stroke-width="4"/>
+
+<!-- chest plates -->
+<g fill="none" stroke="#ff9bad" stroke-width="3" opacity=".65">
+ <path d="M484 310 Q515 338 546 310 M519 291 Q550 320 581 291 M556 278 Q587 307 618 278"/>
+ <path d="M482 354 Q514 383 546 354 M522 373 Q554 402 586 373 M565 387 Q598 414 630 387"/>
 </g>
-<!-- breath -->
-<path d="M914 207C950 200 970 208 988 222C964 219 952 231 937 246" fill="none" stroke="#ff1744" stroke-width="5" stroke-linecap="round" filter="url(#g)"/>
-<text x="600" y="466" text-anchor="middle" fill="#777" font-family="monospace" font-size="12" letter-spacing="6">NEURAL DRAGON // AI ENGINEERING</text>
+
+<!-- claws -->
+<path d="M520 421 C492 452 481 479 483 505 M561 435 C544 466 540 490 547 515 M692 421 C720 447 731 474 727 501" fill="none" stroke="#ff4263" stroke-width="11" stroke-linecap="round"/>
+<path d="M483 505 l-13 18 M547 515 l-4 21 M727 501 l12 17" stroke="#ffe3e8" stroke-width="4" stroke-linecap="round"/>
+
+<!-- subtle sparks -->
+<g fill="#ff1744" filter="url(#glow)">
+ <circle cx="300" cy="190" r="4"/><circle cx="932" cy="142" r="4"/><circle cx="1002" cy="313" r="3"/>
+</g>
+
+<text x="600" y="578" text-anchor="middle" fill="#777" font-family="monospace" font-size="13" letter-spacing="7">NEURAL DRAGON  •  AI ENGINEERING</text>
 </svg>
