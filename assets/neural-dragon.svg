@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360">
+<defs>
+ <linearGradient id="r" x1="0" x2="1"><stop stop-color="#7a0018"/><stop offset=".45" stop-color="#ff1744"/><stop offset="1" stop-color="#ff667f"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="360" fill="#050505"/>
+<g fill="none" stroke="url(#r)" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)">
+ <path stroke-width="6" d="M132 238 C105 205 112 157 151 128 C186 102 239 105 272 130 C305 154 313 198 286 226 C262 251 218 257 188 239"/>
+ <path stroke-width="5" d="M276 144 C333 112 401 116 447 151 C487 181 530 179 565 155 C598 132 633 101 686 110 C737 118 765 155 750 184 C734 213 690 214 665 192"/>
+ <path stroke-width="7" d="M448 151 C426 119 438 78 470 54 C494 36 526 34 548 48 C527 60 516 77 520 96"/>
+ <path stroke-width="6" d="M520 96 C554 65 598 61 632 78 C611 88 596 104 592 124"/>
+ <path stroke-width="5" d="M592 124 C625 150 660 154 694 142"/>
+ <path stroke-width="6" d="M189 239 C160 276 111 284 72 263 C105 259 125 241 132 218"/>
+ <path stroke-width="6" d="M286 226 C324 263 371 278 415 266 C390 251 380 232 383 210"/>
+ <path stroke-width="5" d="M665 192 C699 225 745 237 785 220 C763 213 751 197 750 184"/>
+ <path stroke-width="4" d="M151 128 L119 91 L166 105 L191 66 L207 111"/>
+ <path stroke-width="4" d="M470 54 L450 21 L489 37 L510 10 L522 49"/>
+ <path stroke-width="4" d="M686 110 L713 75 L723 111"/>
+</g>
+<g fill="#ff1744" filter="url(#g)">
+ <circle cx="166" cy="139" r="5"/><circle cx="684" cy="139" r="4"/><circle cx="489" cy="73" r="4"/>
+</g>
+<path d="M70 310 Q450 350 830 310" fill="none" stroke="#3b0b14" stroke-width="2"/>
+<text x="450" y="337" text-anchor="middle" fill="#777" font-family="monospace" font-size="11" letter-spacing="5">NEURAL DRAGON // AI ENGINEERING</text>
+</svg>
