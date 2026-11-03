@@ -22,12 +22,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/performance-car.svg" width="96%" alt="Red performance car"/>
-
-</div>
-
 ---
 
 ## ⚡ ABOUT ME
