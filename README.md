@@ -193,20 +193,16 @@ Generative AI experimentation and model-based image generation from internship w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PriyanshuBhatt29&show_icons=true&hide_border=true&bg_color=090909&title_color=FF1744&icon_color=E6002E&text_color=F2F2F2&ring_color=FF003C&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuBhatt29&layout=compact&hide_border=true&bg_color=090909&title_color=FF003C&text_color=F2F2F2&langs_count=8" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshuBhatt29&theme=github_dark" width="100%" alt="GitHub contribution overview"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuBhatt29&bg_color=090909&color=F2F2F2&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PriyanshuBhatt29&theme=github_dark" width="49%" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PriyanshuBhatt29&theme=github_dark" width="49%" alt="Most used commit languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=PriyanshuBhatt29&theme=dark&hide_border=true&background=090909&ring=B30021&fire=FF003C&currStreakLabel=FF1744&sideLabels=FF1744&currStreakNum=FFFFFF&sideNums=FFFFFF" width="65%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshuBhatt29&theme=github_dark" width="92%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PriyanshuBhatt29&theme=github_dark&utcOffset=5.5" width="49%" alt="Most productive coding hours"/>
 
 </div>
 
