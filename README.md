@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/neural-dragon.svg?v=2" width="96%" alt="Red performance car"/>
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/main/assets/performance-car.svg" width="96%" alt="Red performance car"/>
 
 </div>
 
@@ -46,8 +46,6 @@ I'm focused on turning **models, algorithms, and ideas into usable software**.
 <td width="25%" align="center">⚡<br><b>AI Engineering</b><br><sub>Models · APIs · Deployment</sub></td>
 <td width="25%" align="center">💻<br><b>Development</b><br><sub>Python · C++ · React</sub></td>
 <td width="25%" align="center">☁️<br><b>Infrastructure</b><br><sub>Git · Docker · AWS</sub></td>
-</tr>
-</table>
 </tr>
 </table>
 
@@ -200,11 +198,27 @@ Generative AI experimentation and model-based image generation from internship w
 
 <br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuBhatt29&bg_color=090909&color=F2F2F2&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="96%"/>
+
+<br><br>
+
 <img src="https://streak-stats.demolab.com?user=PriyanshuBhatt29&theme=dark&hide_border=true&background=090909&ring=B30021&fire=FF003C&currStreakLabel=FF1744&sideLabels=FF1744&currStreakNum=FFFFFF&sideNums=FFFFFF" width="65%"/>
 
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshuBhatt29&theme=github_dark" width="92%"/>
+
+</div>
+
+---
+
+## ⚡ CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PriyanshuBhatt29/PriyanshuBhatt29/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<sub>Automatically regenerated daily and whenever the main branch is updated.</sub>
 
 </div>
 
